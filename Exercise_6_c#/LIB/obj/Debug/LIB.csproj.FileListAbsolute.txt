@@ -1,6 +1,0 @@
-C:\Users\midtg\OneDrive - Aarhus universitet\4. semester\IKN\IKNOvelse1\Exercise_6_c#\Exercise_6_c#\LIB\bin\Debug\LIB.dll
-C:\Users\midtg\OneDrive - Aarhus universitet\4. semester\IKN\IKNOvelse1\Exercise_6_c#\Exercise_6_c#\LIB\bin\Debug\LIB.pdb
-C:\Users\midtg\OneDrive - Aarhus universitet\4. semester\IKN\IKNOvelse1\Exercise_6_c#\Exercise_6_c#\LIB\obj\Debug\LIB.csprojAssemblyReference.cache
-C:\Users\midtg\OneDrive - Aarhus universitet\4. semester\IKN\IKNOvelse1\Exercise_6_c#\Exercise_6_c#\LIB\obj\Debug\LIB.csproj.CoreCompileInputs.cache
-C:\Users\midtg\OneDrive - Aarhus universitet\4. semester\IKN\IKNOvelse1\Exercise_6_c#\Exercise_6_c#\LIB\obj\Debug\LIB.dll
-C:\Users\midtg\OneDrive - Aarhus universitet\4. semester\IKN\IKNOvelse1\Exercise_6_c#\Exercise_6_c#\LIB\obj\Debug\LIB.pdb
